@@ -747,6 +747,9 @@ CONFIG_MACH_NUBIA_NX563J=y
 # CONFIG_MACH_NUBIA_NX595J is not set
 # CONFIG_MACH_NUBIA_NX609J is not set
 
+# Enable qcacld-3.0 wlan driver -- Add by Cyborg2017(Cyborg Yang)
+CONFIG_QCA_CLD_WLAN=y
+
 # Enable BFQ ioscheduler -- Add by Cyborg2017(Cyborg Yang) [20190903]
 CONFIG_IOSCHED_BFQ=y
 
