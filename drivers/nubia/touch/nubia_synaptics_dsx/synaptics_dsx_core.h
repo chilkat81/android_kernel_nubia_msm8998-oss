@@ -423,6 +423,7 @@ struct synaptics_rmi4_data {
 	bool report_pressure;
 	bool stylus_enable;
 	bool eraser_enable;
+	bool swap_buttons;
 //nubia for palm sleep
 #ifdef NUBIA_SYNAPTICS_PALM_SUPPORT
 	bool palm_suspend;
