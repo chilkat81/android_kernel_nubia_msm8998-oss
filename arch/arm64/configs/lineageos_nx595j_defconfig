@@ -756,8 +756,8 @@ CONFIG_NUBIA_USB_MAXIMUM_SPEED_HIGH=y
 #### addition drivers --start
 
 # Nubia option
-CONFIG_MACH_NUBIA_NX563J=y
-# CONFIG_MACH_NUBIA_NX595J is not set
+CONFIG_MACH_NUBIA_NX595J=y
+# CONFIG_MACH_NUBIA_NX563J is not set
 # CONFIG_MACH_NUBIA_NX609J is not set
 
 # Enable qcacld-3.0 wlan driver
